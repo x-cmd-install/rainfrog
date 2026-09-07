@@ -5,15 +5,15 @@ about:
   head: d8b0c8d
   archived: false
   latestVersion: "v0.4.5"
-  collectedAt: 2026-09-07T03:18:50Z
+  collectedAt: 2026-09-07T20:06:03Z
 timeline:
   created: 2024-05-15
   lastCommit: 2026-08-25
   lastRelease: 2026-08-25
 popularity:
-  star: 5322
+  star: 5323
   watcher: 27
-  fork: 96
+  fork: 95
   release: 61
   contributor: 18
   pullRequest: 239
@@ -84,7 +84,7 @@ total:
   commit: 351
 ---
 path: /home/runner/.x-repo/github.com/achristmascarl/rainfrog
-collectedAt: 2026-09-07T03:18:51Z
+collectedAt: 2026-09-07T20:06:05Z
 loc:
   Rust:
     code: 15961
@@ -135,7 +135,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T03:18:52+00:00
+  collectedAt: 2026-09-07T20:06:05+00:00
   platform:
     darwin/arm64:
       name:  rainfrog-v0.4.5-aarch64-apple-darwin.tar.gz
