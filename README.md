@@ -23,11 +23,35 @@ x install rainfrog
 - **Latest**: `v0.4.5` (2026-08-25)
 - **Last commit**: 2026-08-25
 - **Assets in release**: 20
-- **Published**: 2026-08-25T01:47:08Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [rainfrog-v0.4.5-aarch64-apple-darwin.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-apple-darwin.sha256) | 110 B | `native/darwin/arm64` |
+| [rainfrog-v0.4.5-aarch64-apple-darwin.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-apple-darwin.tar.gz) | 18.4 MiB | `native/darwin/arm64` |
+| [rainfrog-v0.4.5-aarch64-linux-android.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-linux-android.sha256) | 111 B | `native/linux/arm64` |
+| [rainfrog-v0.4.5-aarch64-linux-android.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-linux-android.tar.gz) | 7.1 MiB | `native/linux/arm64` |
+| [rainfrog-v0.4.5-aarch64-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-unknown-linux-gnu.sha256) | 115 B | `native/linux/arm64/glibc` |
+| [rainfrog-v0.4.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-unknown-linux-gnu.tar.gz) | 20.7 MiB | `native/linux/arm64/glibc` |
+| [rainfrog-v0.4.5-aarch64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-unknown-linux-musl.sha256) | 116 B | `native/linux/arm64/musl` |
+| [rainfrog-v0.4.5-aarch64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-unknown-linux-musl.tar.gz) | 7.5 MiB | `native/linux/arm64/musl` |
+| [rainfrog-v0.4.5-i686-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-i686-unknown-linux-gnu.sha256) | 112 B | `native/linux/x86/glibc` |
+| [rainfrog-v0.4.5-i686-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-i686-unknown-linux-gnu.tar.gz) | 8.0 MiB | `native/linux/x86/glibc` |
+| [rainfrog-v0.4.5-i686-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-i686-unknown-linux-musl.sha256) | 113 B | `native/linux/x86/musl` |
+| [rainfrog-v0.4.5-i686-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-i686-unknown-linux-musl.tar.gz) | 7.8 MiB | `native/linux/x86/musl` |
+| [rainfrog-v0.4.5-x86_64-apple-darwin.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-apple-darwin.sha256) | 109 B | `native/darwin/x64` |
+| [rainfrog-v0.4.5-x86_64-apple-darwin.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-apple-darwin.tar.gz) | 19.8 MiB | `native/darwin/x64` |
+| [rainfrog-v0.4.5-x86_64-pc-windows-msvc.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-pc-windows-msvc.sha256) | 65 B | `native/win/x64` |
+| [rainfrog-v0.4.5-x86_64-pc-windows-msvc.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-pc-windows-msvc.tar.gz) | 15.8 MiB | `native/win/x64` |
+| [rainfrog-v0.4.5-x86_64-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-gnu.sha256) | 114 B | `native/linux/x64/glibc` |
+| [rainfrog-v0.4.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-gnu.tar.gz) | 22.4 MiB | `native/linux/x64/glibc` |
+| [rainfrog-v0.4.5-x86_64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-musl.sha256) | 115 B | `native/linux/x64/musl` |
+| [rainfrog-v0.4.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-musl.tar.gz) | 8.0 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 5,323 · **Forks**: 95 · **Open issues**: 98 · **Contributors**: 18
+- **Stars**: 5,324 · **Forks**: 95 · **Open issues**: 98 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -58,8 +82,8 @@ Total: **17,170** lines of code across **46** files in the top 5 languages.
 Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rainfrog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/rainfrog.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/rainfrog.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:27:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:48Z._
