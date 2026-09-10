@@ -12,6 +12,18 @@
 x install rainfrog
 ```
 
+## Code insight
+
+Total: **17,170** lines of code across **46** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 15,961 | 1,124 | 1,214 | 38 |
+| Sql | 906 | 24 | 110 | 5 |
+| Toml | 118 | 0 | 9 | 1 |
+| Sh | 68 | 7 | 12 | 1 |
+| Makefile | 65 | 0 | 16 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/achristmascarl/rainfrog>
@@ -23,6 +35,25 @@ x install rainfrog
 - **Latest**: `v0.4.5` (2026-08-25)
 - **Last commit**: 2026-08-25
 - **Assets in release**: 20
+
+## Popularity
+
+- **Stars**: 5,324 · **Forks**: 95 · **Open issues**: 98 · **Contributors**: 18
+
+## Totals (cumulative)
+
+- **Releases**: 61 · **Merged PRs**: 235 · **Open PRs**: 1 · **Closed issues**: 85 · **Open issues**: 13 · **Commits**: 351
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 2 | 14 | 0 | 1 | 0 | 14 |
+| last60d | 2026-07-12 | 5 | 28 | 0 | 2 | 1 | 28 |
+| 90d | 2026-06-12 | 7 | 38 | 1 | 3 | 1 | 38 |
+| last180d | 2026-03-14 | 8 | 48 | 1 | 11 | 2 | 48 |
+| 360d | 2025-09-15 | 18 | 91 | 1 | 28 | 5 | 93 |
+| last720d | 2024-09-20 | 39 | 168 | 1 | 63 | 10 | 187 |
 
 ## Release assets
 
@@ -49,33 +80,15 @@ x install rainfrog
 | [rainfrog-v0.4.5-x86_64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-musl.sha256) | 115 B | `native/linux/x64/musl` |
 | [rainfrog-v0.4.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-musl.tar.gz) | 8.0 MiB | `native/linux/x64/musl` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 5,324 · **Forks**: 95 · **Open issues**: 98 · **Contributors**: 18
+Reported by **16** distros on [repology.org](https://repology.org/project/rainfrog). **10** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 61 · **Merged PRs**: 235 · **Open PRs**: 1 · **Closed issues**: 85 · **Open issues**: 13 · **Commits**: 351
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 14 | 0 | 1 | 0 | 14 |
-| 90d | 2026-06-12 | 7 | 38 | 1 | 3 | 1 | 38 |
-| 360d | 2025-09-15 | 18 | 91 | 1 | 28 | 5 | 93 |
-
-## Code size
-
-Total: **17,170** lines of code across **46** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 15,961 | 1,124 | 1,214 | 38 |
-| Sql | 906 | 24 | 110 | 5 |
-| Toml | 118 | 0 | 9 | 1 |
-| Sh | 68 | 7 | 12 | 1 |
-| Makefile | 65 | 0 | 16 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.4.5` | ✅ latest |
+| Homebrew | `0.4.5` | ✅ latest |
+| Nix unstable | `0.4.5` | ✅ latest |
 
 ## Improve this data
 
@@ -86,4 +99,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:15:00Z._
