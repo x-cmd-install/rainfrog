@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 23440062,
       "digest": "sha256:33fea43b497723d7969ceb733bce10e2c309a6ad96aa219b2f220535397485a8",
-      "download_count": 189,
+      "download_count": 190,
       "created_at": "2026-08-25T01:58:36Z",
       "updated_at": "2026-08-25T01:58:37Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-gnu.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 8409720,
       "digest": "sha256:f667b080968f794155126aa342372dd0714973685aa203b49dd1e2d4e21a789b",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-08-25T01:47:18Z",
       "updated_at": "2026-08-25T01:47:19Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-musl.tar.gz"
