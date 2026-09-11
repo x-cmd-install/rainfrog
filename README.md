@@ -38,7 +38,7 @@ Total: **17,170** lines of code across **46** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,324 · **Forks**: 95 · **Open issues**: 98 · **Contributors**: 18
+- **Stars**: 5,325 · **Forks**: 95 · **Open issues**: 98 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -99,4 +99,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:24:56Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:52:38Z._
