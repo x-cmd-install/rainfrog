@@ -48,12 +48,12 @@ Total: **17,170** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 14 | 0 | 1 | 0 | 14 |
-| last60d | 2026-07-12 | 5 | 28 | 0 | 2 | 1 | 28 |
-| 90d | 2026-06-12 | 7 | 38 | 1 | 3 | 1 | 38 |
-| last180d | 2026-03-14 | 8 | 48 | 1 | 11 | 2 | 48 |
-| 360d | 2025-09-15 | 18 | 91 | 1 | 28 | 5 | 93 |
-| last720d | 2024-09-20 | 39 | 168 | 1 | 63 | 10 | 187 |
+| 30d | 2026-08-12 | 2 | 14 | 0 | 1 | 0 | 14 |
+| last60d | 2026-07-13 | 5 | 28 | 0 | 2 | 1 | 28 |
+| 90d | 2026-06-13 | 7 | 38 | 1 | 3 | 1 | 38 |
+| last180d | 2026-03-15 | 8 | 48 | 1 | 11 | 2 | 48 |
+| 360d | 2025-09-16 | 18 | 91 | 1 | 28 | 5 | 93 |
+| last720d | 2024-09-21 | 39 | 168 | 1 | 63 | 10 | 186 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:32:56Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T03:24:56Z._
