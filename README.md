@@ -4,7 +4,7 @@
 
 🐸 a database tool for the terminal
 
-![rainfrog](https://repo.x-cmd.io/rainfrog.svg)
+[![x-cmd/install — rainfrog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rainfrog.svg)](https://x-cmd.com/install/rainfrog)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **17,170** lines of code across **46** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,337 · **Forks**: 95 · **Open issues**: 98 · **Contributors**: 18
+- **Stars**: 5,338 · **Forks**: 95 · **Open issues**: 98 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **17,170** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 7 | 0 | 1 | 0 | 9 |
-| last60d | 2026-07-20 | 5 | 29 | 0 | 2 | 1 | 28 |
-| 90d | 2026-06-20 | 6 | 35 | 1 | 3 | 1 | 35 |
-| last180d | 2026-03-22 | 8 | 47 | 1 | 10 | 2 | 47 |
-| 360d | 2025-09-23 | 18 | 92 | 1 | 28 | 5 | 94 |
-| last720d | 2024-09-28 | 37 | 160 | 1 | 56 | 10 | 180 |
+| 30d | 2026-08-21 | 1 | 5 | 0 | 0 | 0 | 9 |
+| last60d | 2026-07-22 | 5 | 28 | 0 | 2 | 1 | 28 |
+| 90d | 2026-06-22 | 6 | 35 | 1 | 3 | 1 | 35 |
+| last180d | 2026-03-24 | 8 | 47 | 1 | 9 | 2 | 47 |
+| 360d | 2025-09-25 | 18 | 92 | 1 | 28 | 5 | 94 |
+| last720d | 2024-09-30 | 36 | 158 | 1 | 54 | 10 | 174 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:34:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:48:17Z._

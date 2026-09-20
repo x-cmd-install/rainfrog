@@ -4,7 +4,7 @@
 
 🐸 a database tool for the terminal
 
-![rainfrog](https://repo.x-cmd.io/rainfrog.svg?lang=zh)
+[![x-cmd/install — rainfrog Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rainfrog.svg?lang=zh)](https://x-cmd.com/install/rainfrog)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install rainfrog
 
 ## 流行度
 
-- **Star**: 5,337 · **Fork**: 95 · **开放 issue**: 98 · **贡献者**: 18
+- **Star**: 5,338 · **Fork**: 95 · **开放 issue**: 98 · **贡献者**: 18
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install rainfrog
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 7 | 0 | 1 | 0 | 9 |
-| last60d | 2026-07-20 | 5 | 29 | 0 | 2 | 1 | 28 |
-| 90d | 2026-06-20 | 6 | 35 | 1 | 3 | 1 | 35 |
-| last180d | 2026-03-22 | 8 | 47 | 1 | 10 | 2 | 47 |
-| 360d | 2025-09-23 | 18 | 92 | 1 | 28 | 5 | 94 |
-| last720d | 2024-09-28 | 37 | 160 | 1 | 56 | 10 | 180 |
+| 30d | 2026-08-21 | 1 | 5 | 0 | 0 | 0 | 9 |
+| last60d | 2026-07-22 | 5 | 28 | 0 | 2 | 1 | 28 |
+| 90d | 2026-06-22 | 6 | 35 | 1 | 3 | 1 | 35 |
+| last180d | 2026-03-24 | 8 | 47 | 1 | 9 | 2 | 47 |
+| 360d | 2025-09-25 | 18 | 92 | 1 | 28 | 5 | 94 |
+| last720d | 2024-09-30 | 36 | 158 | 1 | 54 | 10 | 174 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ rainfrog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T03:34:53Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T03:48:17Z._
