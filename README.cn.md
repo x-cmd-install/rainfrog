@@ -14,11 +14,11 @@ x install rainfrog
 
 ## 代码洞察
 
-合计: **17,170** 行代码（覆盖前 5 种语言、共 **46** 个文件）。
+合计: **17,266** 行代码（覆盖前 5 种语言、共 **46** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 15,961 | 1,124 | 1,214 | 38 |
+| Rust | 16,057 | 1,125 | 1,225 | 38 |
 | Sql | 906 | 24 | 110 | 5 |
 | Toml | 118 | 0 | 9 | 1 |
 | Sh | 68 | 7 | 12 | 1 |
@@ -32,53 +32,53 @@ x install rainfrog
 
 ## 发布
 
-- **最新版本**: `v0.4.5` (2026-08-25)
-- **最近提交**: 2026-09-23
+- **最新版本**: `v0.4.6` (2026-09-24)
+- **最近提交**: 2026-09-24
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 5,345 · **Fork**: 95 · **开放 issue**: 98 · **贡献者**: 18
+- **Star**: 5,347 · **Fork**: 95 · **开放 issue**: 98 · **贡献者**: 18
 
 ## 累计统计
 
-- **发布数**: 61 · **已合并 PR**: 237 · **开放 PR**: 1 · **已关闭 issue**: 85 · **开放 issue**: 13 · **提交数**: 353
+- **发布数**: 62 · **已合并 PR**: 239 · **开放 PR**: 1 · **已关闭 issue**: 86 · **开放 issue**: 12 · **提交数**: 355
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-26 | 4 | 20 | 0 | 1 | 0 | 19 |
-| 90d | 2026-06-26 | 6 | 36 | 1 | 3 | 1 | 36 |
-| last180d | 2026-03-28 | 8 | 48 | 1 | 9 | 2 | 48 |
-| 360d | 2025-09-29 | 18 | 93 | 1 | 28 | 5 | 95 |
-| last720d | 2024-10-04 | 35 | 156 | 1 | 54 | 10 | 170 |
+| 30d | 2026-08-26 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-27 | 5 | 22 | 0 | 1 | 0 | 21 |
+| 90d | 2026-06-27 | 7 | 38 | 1 | 3 | 1 | 38 |
+| last180d | 2026-03-29 | 9 | 50 | 1 | 9 | 2 | 50 |
+| 360d | 2025-09-30 | 19 | 95 | 1 | 28 | 4 | 97 |
+| last720d | 2024-10-05 | 36 | 158 | 1 | 55 | 9 | 172 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [rainfrog-v0.4.5-aarch64-apple-darwin.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-apple-darwin.sha256) | 110 B | `native/darwin/arm64` |
-| [rainfrog-v0.4.5-aarch64-apple-darwin.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-apple-darwin.tar.gz) | 18.4 MiB | `native/darwin/arm64` |
-| [rainfrog-v0.4.5-aarch64-linux-android.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-linux-android.sha256) | 111 B | `native/linux/arm64` |
-| [rainfrog-v0.4.5-aarch64-linux-android.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-linux-android.tar.gz) | 7.1 MiB | `native/linux/arm64` |
-| [rainfrog-v0.4.5-aarch64-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-unknown-linux-gnu.sha256) | 115 B | `native/linux/arm64/glibc` |
-| [rainfrog-v0.4.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-unknown-linux-gnu.tar.gz) | 20.7 MiB | `native/linux/arm64/glibc` |
-| [rainfrog-v0.4.5-aarch64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-unknown-linux-musl.sha256) | 116 B | `native/linux/arm64/musl` |
-| [rainfrog-v0.4.5-aarch64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-aarch64-unknown-linux-musl.tar.gz) | 7.5 MiB | `native/linux/arm64/musl` |
-| [rainfrog-v0.4.5-i686-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-i686-unknown-linux-gnu.sha256) | 112 B | `native/linux/x86/glibc` |
-| [rainfrog-v0.4.5-i686-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-i686-unknown-linux-gnu.tar.gz) | 8.0 MiB | `native/linux/x86/glibc` |
-| [rainfrog-v0.4.5-i686-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-i686-unknown-linux-musl.sha256) | 113 B | `native/linux/x86/musl` |
-| [rainfrog-v0.4.5-i686-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-i686-unknown-linux-musl.tar.gz) | 7.8 MiB | `native/linux/x86/musl` |
-| [rainfrog-v0.4.5-x86_64-apple-darwin.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-apple-darwin.sha256) | 109 B | `native/darwin/x64` |
-| [rainfrog-v0.4.5-x86_64-apple-darwin.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-apple-darwin.tar.gz) | 19.8 MiB | `native/darwin/x64` |
-| [rainfrog-v0.4.5-x86_64-pc-windows-msvc.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-pc-windows-msvc.sha256) | 65 B | `native/win/x64` |
-| [rainfrog-v0.4.5-x86_64-pc-windows-msvc.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-pc-windows-msvc.tar.gz) | 15.8 MiB | `native/win/x64` |
-| [rainfrog-v0.4.5-x86_64-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-gnu.sha256) | 114 B | `native/linux/x64/glibc` |
-| [rainfrog-v0.4.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-gnu.tar.gz) | 22.4 MiB | `native/linux/x64/glibc` |
-| [rainfrog-v0.4.5-x86_64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-musl.sha256) | 115 B | `native/linux/x64/musl` |
-| [rainfrog-v0.4.5-x86_64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.5/rainfrog-v0.4.5-x86_64-unknown-linux-musl.tar.gz) | 8.0 MiB | `native/linux/x64/musl` |
+| [rainfrog-v0.4.6-aarch64-apple-darwin.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-aarch64-apple-darwin.sha256) | 110 B | `native/darwin/arm64` |
+| [rainfrog-v0.4.6-aarch64-apple-darwin.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-aarch64-apple-darwin.tar.gz) | 18.0 MiB | `native/darwin/arm64` |
+| [rainfrog-v0.4.6-aarch64-linux-android.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-aarch64-linux-android.sha256) | 111 B | `native/linux/arm64` |
+| [rainfrog-v0.4.6-aarch64-linux-android.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-aarch64-linux-android.tar.gz) | 6.8 MiB | `native/linux/arm64` |
+| [rainfrog-v0.4.6-aarch64-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-aarch64-unknown-linux-gnu.sha256) | 115 B | `native/linux/arm64/glibc` |
+| [rainfrog-v0.4.6-aarch64-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-aarch64-unknown-linux-gnu.tar.gz) | 15.7 MiB | `native/linux/arm64/glibc` |
+| [rainfrog-v0.4.6-aarch64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-aarch64-unknown-linux-musl.sha256) | 116 B | `native/linux/arm64/musl` |
+| [rainfrog-v0.4.6-aarch64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-aarch64-unknown-linux-musl.tar.gz) | 7.2 MiB | `native/linux/arm64/musl` |
+| [rainfrog-v0.4.6-i686-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-i686-unknown-linux-gnu.sha256) | 112 B | `native/linux/x86/glibc` |
+| [rainfrog-v0.4.6-i686-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-i686-unknown-linux-gnu.tar.gz) | 7.1 MiB | `native/linux/x86/glibc` |
+| [rainfrog-v0.4.6-i686-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-i686-unknown-linux-musl.sha256) | 113 B | `native/linux/x86/musl` |
+| [rainfrog-v0.4.6-i686-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-i686-unknown-linux-musl.tar.gz) | 7.5 MiB | `native/linux/x86/musl` |
+| [rainfrog-v0.4.6-x86_64-apple-darwin.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-apple-darwin.sha256) | 109 B | `native/darwin/x64` |
+| [rainfrog-v0.4.6-x86_64-apple-darwin.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-apple-darwin.tar.gz) | 19.4 MiB | `native/darwin/x64` |
+| [rainfrog-v0.4.6-x86_64-pc-windows-msvc.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-pc-windows-msvc.sha256) | 65 B | `native/win/x64` |
+| [rainfrog-v0.4.6-x86_64-pc-windows-msvc.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-pc-windows-msvc.tar.gz) | 15.5 MiB | `native/win/x64` |
+| [rainfrog-v0.4.6-x86_64-unknown-linux-gnu.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-unknown-linux-gnu.sha256) | 114 B | `native/linux/x64/glibc` |
+| [rainfrog-v0.4.6-x86_64-unknown-linux-gnu.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-unknown-linux-gnu.tar.gz) | 17.3 MiB | `native/linux/x64/glibc` |
+| [rainfrog-v0.4.6-x86_64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-unknown-linux-musl.sha256) | 115 B | `native/linux/x64/musl` |
+| [rainfrog-v0.4.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-unknown-linux-musl.tar.gz) | 7.7 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -89,4 +89,4 @@ rainfrog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260924.yml` · 2026-09-24T03:32:22Z._
+_数据快照: `data/card/260925.yml` · 2026-09-25T03:49:12Z._
