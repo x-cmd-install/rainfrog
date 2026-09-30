@@ -14,11 +14,11 @@ x install rainfrog
 
 ## Code insight
 
-Total: **17,266** lines of code across **46** files in the top 5 languages.
+Total: **17,287** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,057 | 1,125 | 1,225 | 38 |
+| Rust | 16,078 | 1,125 | 1,228 | 38 |
 | Sql | 906 | 24 | 110 | 5 |
 | Toml | 118 | 0 | 9 | 1 |
 | Sh | 68 | 7 | 12 | 1 |
@@ -33,27 +33,27 @@ Total: **17,266** lines of code across **46** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.6` (2026-09-24)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-29
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 5,353 · **Forks**: 96 · **Open issues**: 98 · **Contributors**: 18
+- **Stars**: 5,354 · **Forks**: 97 · **Open issues**: 98 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 239 · **Open PRs**: 2 · **Closed issues**: 86 · **Open issues**: 12 · **Commits**: 355
+- **Releases**: 62 · **Merged PRs**: 240 · **Open PRs**: 1 · **Closed issues**: 86 · **Open issues**: 12 · **Commits**: 356
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-07-31 | 4 | 21 | 1 | 1 | 0 | 21 |
-| 90d | 2026-07-01 | 7 | 38 | 2 | 3 | 1 | 38 |
-| last180d | 2026-04-02 | 9 | 50 | 2 | 8 | 2 | 50 |
-| 360d | 2025-10-04 | 19 | 95 | 2 | 28 | 4 | 97 |
-| last720d | 2024-10-09 | 36 | 158 | 2 | 55 | 9 | 172 |
+| 30d | 2026-08-31 | 1 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-01 | 4 | 22 | 0 | 1 | 0 | 22 |
+| 90d | 2026-07-02 | 7 | 39 | 1 | 3 | 1 | 39 |
+| last180d | 2026-04-03 | 9 | 51 | 1 | 8 | 1 | 51 |
+| 360d | 2025-10-05 | 19 | 96 | 1 | 28 | 4 | 98 |
+| last720d | 2024-10-10 | 36 | 159 | 1 | 55 | 9 | 173 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T04:39:21Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T04:24:04Z._
