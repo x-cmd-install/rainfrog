@@ -38,7 +38,7 @@ Total: **17,287** lines of code across **46** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,370 · **Forks**: 97 · **Open issues**: 99 · **Contributors**: 19
+- **Stars**: 5,371 · **Forks**: 97 · **Open issues**: 99 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **17,287** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 5 | 0 | 0 | 1 | 4 |
-| last60d | 2026-08-13 | 3 | 19 | 0 | 1 | 1 | 13 |
-| 90d | 2026-07-14 | 6 | 33 | 0 | 2 | 2 | 33 |
-| last180d | 2026-04-15 | 8 | 47 | 1 | 7 | 2 | 47 |
-| 360d | 2025-10-17 | 18 | 93 | 1 | 27 | 5 | 95 |
-| last720d | 2024-10-22 | 35 | 156 | 1 | 54 | 10 | 169 |
+| 30d | 2026-09-13 | 1 | 5 | 0 | 0 | 1 | 4 |
+| last60d | 2026-08-14 | 3 | 19 | 0 | 1 | 1 | 13 |
+| 90d | 2026-07-15 | 6 | 33 | 0 | 2 | 2 | 33 |
+| last180d | 2026-04-16 | 8 | 47 | 1 | 7 | 2 | 47 |
+| 360d | 2025-10-18 | 18 | 93 | 1 | 27 | 5 | 95 |
+| last720d | 2024-10-23 | 35 | 155 | 1 | 54 | 10 | 169 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T04:43:46Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T05:48:10Z._
