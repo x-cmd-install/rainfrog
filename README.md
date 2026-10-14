@@ -14,11 +14,11 @@ x install rainfrog
 
 ## Code insight
 
-Total: **17,287** lines of code across **46** files in the top 5 languages.
+Total: **17,288** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,078 | 1,125 | 1,228 | 38 |
+| Rust | 16,079 | 1,126 | 1,228 | 38 |
 | Sql | 906 | 24 | 110 | 5 |
 | Toml | 118 | 0 | 9 | 1 |
 | Sh | 68 | 7 | 12 | 1 |
@@ -33,7 +33,7 @@ Total: **17,287** lines of code across **46** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.6` (2026-09-24)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-13
 - **Assets in release**: 20
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **17,287** lines of code across **46** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 240 · **Open PRs**: 1 · **Closed issues**: 86 · **Open issues**: 13 · **Commits**: 356
+- **Releases**: 62 · **Merged PRs**: 241 · **Open PRs**: 1 · **Closed issues**: 86 · **Open issues**: 13 · **Commits**: 357
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 5 | 0 | 0 | 1 | 4 |
-| last60d | 2026-08-14 | 3 | 19 | 0 | 1 | 1 | 13 |
-| 90d | 2026-07-15 | 6 | 33 | 0 | 2 | 2 | 33 |
-| last180d | 2026-04-16 | 8 | 47 | 1 | 7 | 2 | 47 |
-| 360d | 2025-10-18 | 18 | 93 | 1 | 27 | 5 | 95 |
-| last720d | 2024-10-23 | 35 | 155 | 1 | 54 | 10 | 169 |
+| 30d | 2026-09-14 | 1 | 6 | 0 | 0 | 1 | 5 |
+| last60d | 2026-08-15 | 3 | 18 | 0 | 1 | 1 | 14 |
+| 90d | 2026-07-16 | 6 | 34 | 0 | 2 | 2 | 34 |
+| last180d | 2026-04-17 | 8 | 48 | 1 | 7 | 2 | 48 |
+| 360d | 2025-10-19 | 18 | 94 | 1 | 27 | 5 | 96 |
+| last720d | 2024-10-24 | 34 | 156 | 1 | 54 | 10 | 169 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T05:48:10Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T03:51:57Z._
