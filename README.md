@@ -38,7 +38,7 @@ Total: **17,288** lines of code across **46** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,380 · **Forks**: 98 · **Open issues**: 99 · **Contributors**: 19
+- **Stars**: 5,383 · **Forks**: 98 · **Open issues**: 99 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **17,288** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 5 | 0 | 0 | 1 | 2 |
-| last60d | 2026-08-23 | 2 | 10 | 0 | 0 | 1 | 6 |
-| 90d | 2026-07-24 | 6 | 30 | 0 | 2 | 1 | 24 |
-| last180d | 2026-04-25 | 8 | 47 | 1 | 7 | 2 | 47 |
-| 360d | 2025-10-27 | 18 | 94 | 1 | 24 | 5 | 96 |
-| last720d | 2024-11-01 | 34 | 156 | 1 | 53 | 8 | 168 |
+| 30d | 2026-09-23 | 1 | 4 | 0 | 0 | 1 | 2 |
+| last60d | 2026-08-24 | 2 | 7 | 0 | 0 | 1 | 6 |
+| 90d | 2026-07-25 | 6 | 24 | 0 | 1 | 1 | 24 |
+| last180d | 2026-04-26 | 8 | 47 | 1 | 7 | 2 | 47 |
+| 360d | 2025-10-28 | 18 | 94 | 1 | 24 | 5 | 96 |
+| last720d | 2024-11-02 | 34 | 156 | 1 | 53 | 8 | 168 |
 
 ## Release assets
 
@@ -80,6 +80,16 @@ Total: **17,288** lines of code across **46** files in the top 5 languages.
 | [rainfrog-v0.4.6-x86_64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-unknown-linux-musl.sha256) | 115 B | `native/linux/x64/musl` |
 | [rainfrog-v0.4.6-x86_64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.6/rainfrog-v0.4.6-x86_64-unknown-linux-musl.tar.gz) | 7.7 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **16** distros on [repology.org](https://repology.org/project/rainfrog). **8** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.4.6` | ✅ latest |
+| Homebrew | `0.4.6` | ✅ latest |
+| Nix unstable | `0.4.6` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rainfrog` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +99,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:37:41Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:42:20Z._
