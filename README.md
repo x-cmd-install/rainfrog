@@ -14,11 +14,11 @@ x install rainfrog
 
 ## Code insight
 
-Total: **17,288** lines of code across **46** files in the top 5 languages.
+Total: **16,473** lines of code across **47** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,079 | 1,126 | 1,228 | 38 |
+| Rust | 15,264 | 934 | 1,110 | 39 |
 | Sql | 906 | 24 | 110 | 5 |
 | Toml | 118 | 0 | 9 | 1 |
 | Sh | 68 | 7 | 12 | 1 |
@@ -33,7 +33,7 @@ Total: **17,288** lines of code across **46** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.6` (2026-09-24)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-29
 - **Assets in release**: 20
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **17,288** lines of code across **46** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 241 · **Open PRs**: 3 · **Closed issues**: 86 · **Open issues**: 13 · **Commits**: 357
+- **Releases**: 62 · **Merged PRs**: 242 · **Open PRs**: 2 · **Closed issues**: 86 · **Open issues**: 13 · **Commits**: 358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 1 | 2 | 0 | 1 | 1 |
-| last60d | 2026-08-29 | 1 | 6 | 2 | 0 | 1 | 6 |
-| 90d | 2026-07-30 | 4 | 23 | 2 | 1 | 1 | 23 |
-| last180d | 2026-05-01 | 8 | 47 | 3 | 7 | 2 | 47 |
-| 360d | 2025-11-02 | 18 | 92 | 3 | 24 | 5 | 94 |
-| last720d | 2024-11-07 | 34 | 156 | 3 | 53 | 8 | 168 |
+| 30d | 2026-09-29 | 0 | 2 | 1 | 0 | 1 | 2 |
+| last60d | 2026-08-30 | 1 | 7 | 1 | 0 | 1 | 7 |
+| 90d | 2026-07-31 | 4 | 24 | 1 | 1 | 1 | 24 |
+| last180d | 2026-05-02 | 8 | 48 | 2 | 7 | 2 | 48 |
+| 360d | 2025-11-03 | 17 | 93 | 2 | 24 | 5 | 95 |
+| last720d | 2024-11-08 | 34 | 157 | 2 | 53 | 8 | 169 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T04:25:34Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T04:43:56Z._
