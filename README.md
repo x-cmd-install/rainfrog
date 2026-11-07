@@ -14,11 +14,11 @@ x install rainfrog
 
 ## Code insight
 
-Total: **16,473** lines of code across **47** files in the top 5 languages.
+Total: **16,874** lines of code across **48** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 15,264 | 934 | 1,110 | 39 |
+| Rust | 15,665 | 946 | 1,160 | 40 |
 | Sql | 906 | 24 | 110 | 5 |
 | Toml | 118 | 0 | 9 | 1 |
 | Sh | 68 | 7 | 12 | 1 |
@@ -33,27 +33,27 @@ Total: **16,473** lines of code across **47** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.6` (2026-09-24)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-06
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 5,397 · **Forks**: 99 · **Open issues**: 99 · **Contributors**: 19
+- **Stars**: 5,398 · **Forks**: 99 · **Open issues**: 101 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 243 · **Open PRs**: 4 · **Closed issues**: 86 · **Open issues**: 13 · **Commits**: 359
+- **Releases**: 62 · **Merged PRs**: 246 · **Open PRs**: 2 · **Closed issues**: 87 · **Open issues**: 14 · **Commits**: 362
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 3 | 3 | 0 | 0 | 3 |
-| last60d | 2026-09-07 | 1 | 8 | 3 | 0 | 1 | 8 |
-| 90d | 2026-08-08 | 4 | 22 | 3 | 1 | 1 | 22 |
-| last180d | 2026-05-10 | 8 | 48 | 4 | 6 | 2 | 48 |
-| 360d | 2025-11-11 | 16 | 90 | 4 | 20 | 4 | 92 |
-| last720d | 2024-11-16 | 34 | 158 | 4 | 53 | 8 | 170 |
+| 30d | 2026-10-08 | 0 | 6 | 1 | 1 | 1 | 6 |
+| last60d | 2026-09-08 | 1 | 11 | 1 | 1 | 2 | 11 |
+| 90d | 2026-08-09 | 3 | 25 | 1 | 2 | 2 | 25 |
+| last180d | 2026-05-11 | 8 | 51 | 2 | 6 | 3 | 51 |
+| 360d | 2025-11-12 | 16 | 93 | 2 | 21 | 5 | 95 |
+| last720d | 2024-11-17 | 34 | 161 | 2 | 54 | 9 | 173 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Total: **16,473** lines of code across **47** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/rainfrog). **8** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **16** distros on [repology.org](https://repology.org/project/rainfrog). **9** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T05:29:11Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T04:57:41Z._
