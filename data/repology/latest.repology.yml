@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: rainfrog
+  visiblename: rainfrog
+  version: 0.4.6
+  origversion: null
+  status: newest
+  summary: Database management TUI for PostgreSQL/MySQL/SQLite
 - repo: altsisyphus
   srcname: rainfrog
   binnames:
@@ -47,17 +54,32 @@
 - repo: homebrew
   srcname: rainfrog
   visiblename: rainfrog
-  version: 0.4.6
-  origversion: null
-  status: newest
-  summary: Database management TUI for PostgreSQL/MySQL/SQLite
-- repo: homebrew
-  srcname: rainfrog
-  visiblename: rainfrog
   version: HEAD
   origversion: null
   status: rolling
   summary: Database management TUI for PostgreSQL/MySQL/SQLite
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: rainfrog
+  binname: rainfrog
+  visiblename: rainfrog
+  version: 0.4.5
+  origversion: 0.4.5-1
+  status: outdated
+  summary: A database management TUI for Postgres
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: rainfrog
+  binname: rainfrog
+  visiblename: rainfrog
+  version: 0.4.6
+  origversion: 0.4.6-1
+  status: newest
+  summary: A database management TUI for Postgres
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: rainfrog
