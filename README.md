@@ -14,13 +14,13 @@ x install rainfrog
 
 ## Code insight
 
-Total: **16,874** lines of code across **48** files in the top 5 languages.
+Total: **16,925** lines of code across **48** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 15,665 | 946 | 1,160 | 40 |
+| Rust | 15,722 | 947 | 1,163 | 40 |
 | Sql | 906 | 24 | 110 | 5 |
-| Toml | 118 | 0 | 9 | 1 |
+| Toml | 112 | 0 | 8 | 1 |
 | Sh | 68 | 7 | 12 | 1 |
 | Makefile | 65 | 0 | 16 | 1 |
 
@@ -33,27 +33,27 @@ Total: **16,874** lines of code across **48** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.6` (2026-09-24)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-09
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 5,399 · **Forks**: 100 · **Open issues**: 101 · **Contributors**: 20
+- **Stars**: 5,399 · **Forks**: 100 · **Open issues**: 101 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 246 · **Open PRs**: 3 · **Closed issues**: 87 · **Open issues**: 14 · **Commits**: 362
+- **Releases**: 62 · **Merged PRs**: 247 · **Open PRs**: 3 · **Closed issues**: 87 · **Open issues**: 14 · **Commits**: 363
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 6 | 2 | 1 | 1 | 5 |
-| last60d | 2026-09-10 | 1 | 11 | 2 | 1 | 2 | 11 |
-| 90d | 2026-08-11 | 3 | 25 | 2 | 2 | 2 | 21 |
-| last180d | 2026-05-13 | 8 | 51 | 3 | 6 | 3 | 51 |
-| 360d | 2025-11-14 | 16 | 93 | 3 | 21 | 5 | 95 |
-| last720d | 2024-11-19 | 34 | 159 | 3 | 54 | 9 | 173 |
+| 30d | 2026-10-11 | 0 | 7 | 2 | 1 | 1 | 6 |
+| last60d | 2026-09-11 | 1 | 12 | 2 | 1 | 2 | 12 |
+| 90d | 2026-08-12 | 3 | 26 | 2 | 2 | 2 | 22 |
+| last180d | 2026-05-14 | 8 | 52 | 3 | 6 | 3 | 52 |
+| 360d | 2025-11-15 | 16 | 94 | 3 | 21 | 4 | 96 |
+| last720d | 2024-11-20 | 33 | 160 | 3 | 54 | 9 | 172 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for rainfrog lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T04:59:15Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T06:16:49Z._
