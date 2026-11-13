@@ -1,3 +1,58 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: rainfrog
+  binname: rainfrog
+  visiblename: rainfrog
+  version: 0.4.6
+  origversion: 0.4.6-1
+  status: outdated
+  summary: A database management TUI for Postgres
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: rainfrog
+  binname: rainfrog
+  visiblename: rainfrog
+  version: 0.4.6
+  origversion: 0.4.6-1
+  status: outdated
+  summary: A database management TUI for Postgres
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: rainfrog
+  visiblename: rainfrog
+  version: 0.2.9
+  origversion: null
+  status: outdated
+  summary: A database management TUI for postgres
+  maintainers:
+    - patka@patka.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: rainfrog
+  visiblename: rainfrog
+  version: 0.3.1
+  origversion: null
+  status: outdated
+  summary: A database management TUI for postgres
+  maintainers:
+    - patka@patka.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: rainfrog
+  visiblename: rainfrog
+  version: 0.3.10
+  origversion: null
+  status: outdated
+  summary: Database management TUI for postgres
+  maintainers:
+    - patka@patka.dev
+  licenses:
+    - MIT
 - repo: altsisyphus
   srcname: rainfrog
   binnames:
@@ -67,61 +122,6 @@
   origversion: 0.4.5-1
   status: outdated
   summary: A database management TUI for Postgres
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: rainfrog
-  binname: rainfrog
-  visiblename: rainfrog
-  version: 0.4.6
-  origversion: 0.4.6-1
-  status: outdated
-  summary: A database management TUI for Postgres
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: rainfrog
-  binname: rainfrog
-  visiblename: rainfrog
-  version: 0.4.6
-  origversion: 0.4.6-1
-  status: outdated
-  summary: A database management TUI for Postgres
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: rainfrog
-  visiblename: rainfrog
-  version: 0.2.9
-  origversion: null
-  status: outdated
-  summary: A database management TUI for postgres
-  maintainers:
-    - patka@patka.dev
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: rainfrog
-  visiblename: rainfrog
-  version: 0.3.1
-  origversion: null
-  status: outdated
-  summary: A database management TUI for postgres
-  maintainers:
-    - patka@patka.dev
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: rainfrog
-  visiblename: rainfrog
-  version: 0.3.10
-  origversion: null
-  status: outdated
-  summary: Database management TUI for postgres
-  maintainers:
-    - patka@patka.dev
   licenses:
     - MIT
 - repo: nix_stable_26_05

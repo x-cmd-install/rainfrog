@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:bfcfae24c2b20704cfd51a7f171a5e43067f8055a6516f19e2f7e7418a4d408d",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-11-11T19:52:26Z",
       "updated_at": "2026-11-11T19:52:27Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-aarch64-apple-darwin.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24152291,
       "digest": "sha256:09ceaa811d99eafb449d7d4aac4d21a50403c275138add1a8259215f73be6352",
-      "download_count": 10,
+      "download_count": 25,
       "created_at": "2026-11-11T19:52:26Z",
       "updated_at": "2026-11-11T19:52:28Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:2c70fb7e7decd8456d5fd431d6bad3fa74b8a861bf08ed891e09221bbd4cf694",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-11T19:50:17Z",
       "updated_at": "2026-11-11T19:50:17Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-aarch64-linux-android.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:8ea299f4fab957254474ce71f57597424d34f2bf0040a50ec6bee0dc9a1cac93",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-11T20:08:57Z",
       "updated_at": "2026-11-11T20:08:58Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-aarch64-unknown-linux-gnu.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 21406703,
       "digest": "sha256:468f5195e4bea38e4e826020089f9dbd85aa5d4fd766fb3c71ed99a4a4104c80",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-11T20:08:57Z",
       "updated_at": "2026-11-11T20:08:58Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:ea15cb26564c810a3b514701f001c274b5d22315ae4dc0bcdad500e4ad376c6f",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-11T19:50:13Z",
       "updated_at": "2026-11-11T19:50:13Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-aarch64-unknown-linux-musl.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8637198,
       "digest": "sha256:c9db5df7d103faf4ccbff07371f2cdea8c4f0a26c542185c6fa50d3df3d69228",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-11-11T19:50:13Z",
       "updated_at": "2026-11-11T19:50:14Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:3dfbe8c9694dae42d6e2a855b072172410bfb96d2c250cce467f6d146b6bbb32",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-11T19:50:28Z",
       "updated_at": "2026-11-11T19:50:28Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-i686-unknown-linux-gnu.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:3393b7000f4a7143ec0ec704cf1efd6d59142eec3983e6775ec902a287285fb8",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-11T19:50:35Z",
       "updated_at": "2026-11-11T19:50:35Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-i686-unknown-linux-musl.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:2a152e41abde9cb2f546b91ce679a733404155d2e918b1c495f5a60a98b8db84",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-11-11T20:03:32Z",
       "updated_at": "2026-11-11T20:03:33Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-apple-darwin.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 25837977,
       "digest": "sha256:a1a49097f1627241c521dcbfcd98c5c15d7e8949cc0139dcc8eed058ea00b9c9",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-11T20:03:32Z",
       "updated_at": "2026-11-11T20:03:34Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-apple-darwin.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:6f38f4ec728f380c0633e16a40b34cbc79992dc1d891733964fdfec14cc883f6",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-11T20:15:24Z",
       "updated_at": "2026-11-11T20:15:24Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-pc-windows-msvc.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 19740611,
       "digest": "sha256:9b50e029621dfefd6eaf68a8e6f1c8ed9a94ac424938e864a70f02051f169b26",
-      "download_count": 19,
+      "download_count": 43,
       "created_at": "2026-11-11T20:15:24Z",
       "updated_at": "2026-11-11T20:15:25Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-pc-windows-msvc.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:2ab9a42dd3a29ce4ee60fa74fa51ac03f86ac14e98a5fce3a9987bb08df71263",
-      "download_count": 6,
+      "download_count": 10,
       "created_at": "2026-11-11T20:01:43Z",
       "updated_at": "2026-11-11T20:01:43Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-unknown-linux-gnu.sha256"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 23403126,
       "digest": "sha256:c46d24bc075d640a3d09ca5f8b2939247df73f61081bfe04e998290d1f238c10",
-      "download_count": 7,
+      "download_count": 24,
       "created_at": "2026-11-11T20:01:43Z",
       "updated_at": "2026-11-11T20:01:45Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-unknown-linux-gnu.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:0fd43c06b0b6c0f30f560887bd40c0fe3ac32e756641d15697434b36a259e062",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-11T19:50:19Z",
       "updated_at": "2026-11-11T19:50:19Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-unknown-linux-musl.sha256"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 9178323,
       "digest": "sha256:b208d72a7e8c65e298ade5ee14cd05b831c106167947c701e8f3465be790927a",
-      "download_count": 6,
+      "download_count": 17,
       "created_at": "2026-11-11T19:50:19Z",
       "updated_at": "2026-11-11T19:50:20Z",
       "browser_download_url": "https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-unknown-linux-musl.tar.gz"
