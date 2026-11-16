@@ -48,12 +48,12 @@ x install rainfrog
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 8 | 2 | 1 | 2 | 8 |
-| last60d | 2026-09-16 | 2 | 14 | 2 | 1 | 3 | 14 |
-| 90d | 2026-08-17 | 4 | 22 | 2 | 2 | 3 | 24 |
-| last180d | 2026-05-19 | 9 | 54 | 3 | 5 | 4 | 54 |
-| 360d | 2025-11-20 | 17 | 96 | 3 | 19 | 5 | 98 |
-| last720d | 2024-11-25 | 34 | 162 | 3 | 54 | 10 | 174 |
+| 30d | 2026-10-17 | 1 | 8 | 2 | 1 | 2 | 8 |
+| last60d | 2026-09-17 | 2 | 13 | 2 | 1 | 3 | 12 |
+| 90d | 2026-08-18 | 3 | 20 | 2 | 2 | 3 | 18 |
+| last180d | 2026-05-20 | 9 | 54 | 3 | 5 | 4 | 54 |
+| 360d | 2025-11-21 | 17 | 96 | 3 | 19 | 5 | 98 |
+| last720d | 2024-11-26 | 34 | 162 | 3 | 54 | 10 | 174 |
 
 ## Release 资产
 
@@ -82,13 +82,13 @@ x install rainfrog
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/rainfrog) 上共有 **16** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/rainfrog) 上共有 **16** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `0.4.7` | ✅ latest |
 | Homebrew | `0.4.7` | ✅ latest |
-| Nix unstable | `0.4.6` | ⚠️ outdated |
+| Nix unstable | `0.4.7` | ✅ latest |
 
 ## 改进这些数据
 
@@ -99,4 +99,4 @@ rainfrog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T05:12:24Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T05:10:32Z._
