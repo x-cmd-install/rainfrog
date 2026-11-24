@@ -1,3 +1,49 @@
+- repo: chocolatey
+  binname: rainfrog
+  visiblename: Rainfrog (Portable)
+  version: 0.4.7
+  origversion: null
+  status: newest
+  summary: A database tool for the terminal
+- repo: altsisyphus
+  srcname: rainfrog
+  binnames:
+    - rainfrog
+    - rainfrog-debuginfo
+  visiblename: rainfrog
+  version: 0.3.20
+  origversion: 0.3.20-alt1
+  status: outdated
+  summary: rainfrog a database tool for the terminal
+  maintainers:
+    - zerospirit@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Databases
+- repo: arch
+  subrepo: extra
+  srcname: rainfrog
+  binname: rainfrog
+  visiblename: rainfrog
+  version: 0.4.7
+  origversion: 0.4.7-1
+  status: newest
+  summary: A database management TUI for Postgres
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: databases/rainfrog
+  binname: rainfrog
+  visiblename: databases/rainfrog
+  version: 0.4.7
+  origversion: null
+  status: newest
+  summary: Database tool for the terminal
+  maintainers:
+    - nivit@freebsd.org
+  categories:
+    - databases
 - repo: homebrew
   srcname: rainfrog
   visiblename: rainfrog
@@ -17,9 +63,9 @@
   srcname: rainfrog
   binname: rainfrog
   visiblename: rainfrog
-  version: 0.4.5
-  origversion: 0.4.5-1
-  status: outdated
+  version: 0.4.7
+  origversion: 0.4.7-1
+  status: newest
   summary: A database management TUI for Postgres
   licenses:
     - MIT
@@ -56,52 +102,6 @@
     - patka@patka.dev
   licenses:
     - MIT
-- repo: altsisyphus
-  srcname: rainfrog
-  binnames:
-    - rainfrog
-    - rainfrog-debuginfo
-  visiblename: rainfrog
-  version: 0.3.20
-  origversion: 0.3.20-alt1
-  status: outdated
-  summary: rainfrog a database tool for the terminal
-  maintainers:
-    - zerospirit@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - Databases
-- repo: arch
-  subrepo: extra
-  srcname: rainfrog
-  binname: rainfrog
-  visiblename: rainfrog
-  version: 0.4.7
-  origversion: 0.4.7-1
-  status: newest
-  summary: A database management TUI for Postgres
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: rainfrog
-  visiblename: Rainfrog (Portable)
-  version: 0.4.7
-  origversion: null
-  status: newest
-  summary: A database tool for the terminal
-- repo: freebsd
-  srcname: databases/rainfrog
-  binname: rainfrog
-  visiblename: databases/rainfrog
-  version: 0.4.7
-  origversion: null
-  status: newest
-  summary: Database tool for the terminal
-  maintainers:
-    - nivit@freebsd.org
-  categories:
-    - databases
 - repo: nix_stable_25_05
   srcname: rainfrog
   visiblename: rainfrog
