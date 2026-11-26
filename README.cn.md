@@ -48,12 +48,12 @@ x install rainfrog
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 9 | 3 | 2 | 2 | 8 |
-| last60d | 2026-09-26 | 1 | 11 | 3 | 2 | 3 | 10 |
-| 90d | 2026-08-27 | 2 | 15 | 3 | 2 | 3 | 15 |
-| last180d | 2026-05-29 | 9 | 54 | 4 | 6 | 4 | 54 |
-| 360d | 2025-11-30 | 17 | 97 | 4 | 20 | 5 | 98 |
-| last720d | 2024-12-05 | 34 | 163 | 4 | 54 | 10 | 175 |
+| 30d | 2026-10-27 | 1 | 9 | 2 | 2 | 2 | 8 |
+| last60d | 2026-09-27 | 1 | 11 | 3 | 2 | 3 | 10 |
+| 90d | 2026-08-28 | 2 | 15 | 3 | 2 | 3 | 15 |
+| last180d | 2026-05-30 | 9 | 54 | 4 | 6 | 4 | 54 |
+| 360d | 2025-12-01 | 17 | 97 | 4 | 20 | 5 | 98 |
+| last720d | 2024-12-06 | 34 | 163 | 4 | 54 | 10 | 175 |
 
 ## Release 资产
 
@@ -80,16 +80,6 @@ x install rainfrog
 | [rainfrog-v0.4.7-x86_64-unknown-linux-musl.sha256](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-unknown-linux-musl.sha256) | 115 B | `native/linux/x64/musl` |
 | [rainfrog-v0.4.7-x86_64-unknown-linux-musl.tar.gz](https://github.com/achristmascarl/rainfrog/releases/download/v0.4.7/rainfrog-v0.4.7-x86_64-unknown-linux-musl.tar.gz) | 8.8 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/rainfrog) 上共有 **16** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.4.7` | ✅ latest |
-| Homebrew | `0.4.7` | ✅ latest |
-| Nix unstable | `0.4.7` | ✅ latest |
-
 ## 改进这些数据
 
 rainfrog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `rainfrog` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +89,4 @@ rainfrog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T07:21:23Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T07:10:35Z._
